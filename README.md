@@ -1,7 +1,7 @@
 # BreatheEasy: Forecasting AQI Using Weather Intelligence
 BreatheEasy harnesses machine learning to predict the Air Quality Index (AQI) based on atmospheric insights — including temperature, humidity, wind speed, and pressure. The goal? Smarter decisions for cleaner air.
 
-🗂️ Directory Layout at a Glance
+## 🗂️ Directory Layout at a Glance
 bash
 Copy
 Edit
@@ -12,7 +12,7 @@ BreatheEasy/
 ├── outputs/          # Stored model files and visualizations
 ├── requirements.txt  # Project dependencies
 └── README.md         # Overview and guide
-⚙️ Getting Started
+## ⚙️ Getting Started
 Follow these quick steps to get the project running locally:
 
 Clone the repository
@@ -34,14 +34,14 @@ bash
 Copy
 Edit
 python src/model.py
-🎯 What You’ll Get
-🔍 A fully trained LightGBM regression model
+## 🎯 What You’ll Get
+## 🔍 A fully trained LightGBM regression model
 
-🌟 Feature contribution analysis using SHAP plots
+## 🌟 Feature contribution analysis using SHAP plots
 
-📈 Performance summary: RMSE, R², and visual feedback
+## 📈 Performance summary: RMSE, R², and visual feedback
 
-📦 Tech Stack
+## 📦 Tech Stack
 This project uses:
 
 pandas & scikit-learn for data wrangling and preprocessing
@@ -54,14 +54,14 @@ matplotlib for plotting
 
 jupyter for interactive analysis
 
-🧪 Insights & Applications
+## 🧪 Insights & Applications
 Discover how meteorological factors influence air quality
 
 Highlight the most critical features impacting AQI
 
 Expand toward real-time AQI monitoring and urban planning tools
 
-📝 License
+## 📝 License
 Released under the MIT License — feel free to use, modify, and distribute responsibly. See the LICENSE file for details.
 
 
